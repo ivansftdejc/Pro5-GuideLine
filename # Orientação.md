@@ -49,6 +49,7 @@ Todas outras questões à serem respondidadas pela candidato, são:
 * Como você planeja documentar o progresso e os resultados do seu projeto?(Max. 1000 palavras): Mencione quais plataformas ou formatos você usará para compartilhar seu trabalho com um público mais amplo, isso pode incluir, blogs, postagens no LinkedIn, Twitter, e muito mais. Nós recomendamos blogs.
 
 * Como você planeja administrar seu tempo, principalmente se tiver outros compromissos durante a duração do programa?: __Consulte a agenda do programa__ e elabore uma agenda de trabalho. Descreva sua abordagem para garantir que você possa dedicar as horas necessárias ao projeto. Dica: Divida todas tarefas que precisarem ser feitas por semana, mês e etc. Como no exemplo a seguir:
+
 | Semana | Tarefa |	Estado |
 |--------|--------|--------|
 | 1 | Conhecer o projecto P5.js| Todo, Em progresso, concluído|
